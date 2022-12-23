@@ -3,12 +3,12 @@
 ---
 
 # 목차
-[1. Introduction]()  
-[2. Project Outline]()  
-[3. Usage & Reproduction]()  
-[4. Directory Structure]()  
-[5. References]()  
-[6. Retrospect]()  
+[1. Introduction](https://github.com/wogkr810/Dacon_Sentence_Type_Classification#1-introduction)  
+[2. Project Outline](https://github.com/wogkr810/Dacon_Sentence_Type_Classification#2-project-outline)  
+[3. Usage & Reproduction](https://github.com/wogkr810/Dacon_Sentence_Type_Classification#3-usage--reproduction)  
+[4. Directory Structure](https://github.com/wogkr810/Dacon_Sentence_Type_Classification#4-directory-structure)  
+[5. References](https://github.com/wogkr810/Dacon_Sentence_Type_Classification#5-references)  
+[6. Retrospect](https://github.com/wogkr810/Dacon_Sentence_Type_Classification#6-retrospect)  
 
 ---
 # 1. Introduction
@@ -125,17 +125,17 @@
         - Public : 0
         - Private : 0
     - `'roberta_documnet_concat_hidden'` 
-        - Public : 0
-        - Private : 0
+        - Public : 0.7475652747
+        - Private : 0.7537354181
     - `'roberta_documnet_mean_sds'` 
         - Public : 0
         - Private : 0
     - `'roberta_documnet_linear'` 
-        - Public : 0
-        - Private : 0
+        - Public : 0.7451894032
+        - Private : 0.7498835687
 - Hard_Voting(5개의 5-Fold)
-    - Public : 0
-    - Private : 0
+    - Public : 0.758202060457
+    - Private : 0.7574623641
 
 ## 하드웨어 & 라이브러리
 
@@ -261,7 +261,7 @@ USER/
 - `arguments.py`
 
   - 필요한 arguments들을 정의한 파일입니다.
-  - 항목이 많아, 하단에 표로 기재하였습니다. 
+  - 항목이 많아, [하단에 표](https://github.com/wogkr810/Dacon_Sentence_Type_Classification#arguments)로 기재하였습니다. 
 
 
 - `[Baseline]_TfidfVectorizer + MLP.ipynb`
