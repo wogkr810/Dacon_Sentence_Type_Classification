@@ -232,7 +232,7 @@ USER/
 - `inference.py`
 
   - 5-Fold를 적용하지 않은 단일모델의 추론을 실행하는 코드입니다.
-  - 학습된 model 가중치를 통해 prediction하고, 예측한 결과를 csv파일로 저장ㅇ하는 코드입니다.
+  - 학습된 model 가중치를 통해 prediction하고, 예측한 결과를 csv파일로 저장하는 코드입니다.
   - 최종 csv파일은 './results/single_model' 폴더에 생성됩니다.
 
 - `model.py`
