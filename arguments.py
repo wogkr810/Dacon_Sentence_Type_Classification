@@ -38,7 +38,7 @@ def parse_args():
     # =========================================================================
     parser.add_argument("--max_input_length", default="128", type=int, help="Max Input Length")
     parser.add_argument("--PLM", default="klue/roberta-large", type=str, help="Path to pretrained model or model identifier from huggingface.co/models")
-    parser.add_argument("--loss_name", default="f1", type=str, help="loss : cross_entropy, focal, f1, label_smoothing")
+    parser.add_argument("--loss_name", default="cross_entropy", type=str, help="loss : cross_entropy, focal, f1, label_smoothing")
 
     parser.add_argument("--use_tfidf", default=False, type=bool, help="use tf-idf")
     parser.add_argument("--use_roberta", default=True, type=bool, help="use roberta")
