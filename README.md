@@ -115,21 +115,22 @@
     - 네번째 **model_name** : `'roberta_documnet_sds'`
     - 두번째 **model_name** : `'roberta_documnet_linear'`  
 4. 3번의 과정 이후에 csv파일들이 저장됐다면, `hard_voting_ipynb` 코드 실행 후 최종 하드보팅 결과물 `'./results/hard_ensemble/'` 경로에 생성
+5. **WandB를 사용하려면, wandb 관련 주석 해제 후 login key값, name, project 설정 후 실행**
 
 **최종 Score**
 - 5-Fold
     - `'roberta_documnet_mean_max'` 
-        - Public : 0
-        - Private : 0
+        - Public : 0.7555
+        - Private : 0.7550
     - `'roberta_documnet_mean_weighted'` 
-        - Public : 0
-        - Private : 0
+        - Public : 0.7509
+        - Private : 0.7524
     - `'roberta_documnet_concat_hidden'` 
         - Public : 0.7475652747
         - Private : 0.7537354181
     - `'roberta_documnet_mean_sds'` 
-        - Public : 0
-        - Private : 0
+        - Public : 0.7475
+        - Private : 0.7537
     - `'roberta_documnet_linear'` 
         - Public : 0.7451894032
         - Private : 0.7498835687
