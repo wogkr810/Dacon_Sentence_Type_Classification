@@ -16,14 +16,14 @@
 ## 소개 & 성적
 
 ### Score  
-![public 4th](https://img.shields.io/badge/PUBLIC-4th-red?style=plastic) ![private 4th](https://img.shields.io/badge/PRIVATE-4th-red?style=plastic)
+![public 4th](https://img.shields.io/badge/PUBLIC-4th-red?style=plastic) ![private 3rd](https://img.shields.io/badge/PRIVATE-3rd-red?style=plastic)
 
 ### Public & Private Leaderboard
 ▶ Public Score  
 <img width="889" alt="image" src="https://user-images.githubusercontent.com/46811558/209296974-cd3fba88-ab17-46ff-af12-ba2761058b86.png"> 
 
 ▶ Private Score  
-<img width="885" alt="image" src="https://user-images.githubusercontent.com/46811558/209296978-ab36e37f-7683-40b3-88ad-7d2fe071b110.png">
+<img width="885" alt="image" src="https://user-images.githubusercontent.com/46811558/210361471-3dbcdfa0-0d81-4698-8792-93feab942f59.png">
 
 
 ### Members
